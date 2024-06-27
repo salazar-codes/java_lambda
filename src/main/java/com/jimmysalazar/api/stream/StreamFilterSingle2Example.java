@@ -10,8 +10,9 @@ public class StreamFilterSingle2Example {
         Usuario usuario = Stream
                 .of("Pato","Paco","Pepa","Pepe1","Pepe2","Al","Pepe3")
                 .map(Usuario::new)
-                .filter(u -> u.getNombre().contains("Pepe"))
-                .findFirst().get();
+                .filter(u -> u.getNombre().contains("Pepex"))
+                .findFirst()
+                .orElseGet(() -> new Usuario("Jak"));
 
         System.out.println(usuario);
     }
