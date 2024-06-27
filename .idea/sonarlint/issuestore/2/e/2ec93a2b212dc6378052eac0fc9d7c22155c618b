@@ -1,0 +1,9 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(ë¨ƒøÿÿÿÿ8ùÈø‚2
+]	java:S125"<This block of commented-out lines of code should be removed.(Ì®è˜øÿÿÿÿ8ùÈø‚2
+>
+java:S3864"!Remove this use of "Stream.peek".(ó‚…¾8†ÕØø‚2
+G	java:S106"+Replace this use of System.out by a logger.(ó‚…¾8‡ÔÖø‚2
+o
+java:S6204!"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(£ßˆ8ÉÓø‚2
+L	java:S106""+Replace this use of System.out by a logger.(ñÛˆ—øÿÿÿÿ8‡ÕØø‚2

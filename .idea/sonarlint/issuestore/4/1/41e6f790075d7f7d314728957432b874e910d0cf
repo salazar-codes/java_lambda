@@ -1,0 +1,9 @@
+
+t
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(°Ô•şÿÿÿÿ8¡²®í‚2
+L	java:S106"+Replace this use of System.out by a logger.(Ù—®³üÿÿÿÿ8¢²®í‚2
+X	java:S125"<This block of commented-out lines of code should be removed.(Î£ğğ8¢²®í‚2
+L	java:S106"+Replace this use of System.out by a logger.(ÄşĞÚşÿÿÿÿ8¢²®í‚2
+G	java:S106"+Replace this use of System.out by a logger.(Úòÿ8¢²®í‚2
+]	java:S125"<This block of commented-out lines of code should be removed.(ÚĞüûÿÿÿÿ8£²®í‚2
+F	java:S106"+Replace this use of System.out by a logger.(ÍŞü[8Áç®í‚2
