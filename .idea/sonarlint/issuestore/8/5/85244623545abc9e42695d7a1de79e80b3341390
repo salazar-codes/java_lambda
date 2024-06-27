@@ -1,7 +1,24 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(ê¢†îşÿÿÿÿ8ÊòµÀ‚2
+_
+java:S18546"=Remove this useless assignment to local variable "proveedor".(ªı´ºıÿÿÿÿ8ôÀø‚2
+b
+java:S1854#"@Remove this useless assignment to local variable "crearUusario".(·Èğâùÿÿÿÿ8ôÀø‚2
+L	java:S106"+Replace this use of System.out by a logger.(ê¢†îşÿÿÿÿ8‘ôÀø‚2
 y
-java:S4276"\Refactor this code to use the more specialised Functional Interface 'ObjIntConsumer<String>'(ˆ„û†8ËòµÀ‚2
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'ObjIntConsumer<String>'(ˆ„û†8’ôÀø‚2
 I
-java:S1602",Remove useless curly braces around statement(ˆ„û†8¸´¹À‚2
-G	java:S106"+Replace this use of System.out by a logger.(–»’¼8¸´¹À‚2
+java:S1602",Remove useless curly braces around statement(ˆ„û†8’ôÀø‚2
+G	java:S106"+Replace this use of System.out by a logger.(–»’¼8’ôÀø‚2
+F	java:S106"+Replace this use of System.out by a logger.(”¹ûm8“ôÀø‚2
+[
+java:S1612#"9Replace this lambda with method reference 'Usuario::new'.(·Èğâùÿÿÿÿ8“ôÀø‚2
+S
+java:S1481#"1Remove this unused "crearUusario" local variable.(·Èğâùÿÿÿÿ8“ôÀø‚2
+]	java:S125'"<This block of commented-out lines of code should be removed.(·‡³ìıÿÿÿÿ8”ôÀø‚2
+]	java:S125+"<This block of commented-out lines of code should be removed.(îşÿ®ûÿÿÿÿ8”ôÀø‚2
+G	java:S1063"+Replace this use of System.out by a logger.(®ÄÂ¿8”ôÀø‚2
+u
+java:S16026"SRemove useless curly braces around statement and then remove useless return keyword(ªı´ºıÿÿÿÿ8”ôÀø‚2
+P
+java:S14816".Remove this unused "proveedor" local variable.(ªı´ºıÿÿÿÿ8•ôÀø‚2
+G	java:S106<"+Replace this use of System.out by a logger.(Ùó”‹8•ôÀø‚2

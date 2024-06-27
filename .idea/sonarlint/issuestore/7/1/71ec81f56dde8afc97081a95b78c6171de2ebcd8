@@ -1,0 +1,11 @@
+
+k
+java:S3655"NCall "usuario.isPresent()" or "!usuario.isEmpty()" before accessing the value.(£âÒ8ˆ­ƒù‚2
+<
+java:S3864"!Remove this use of "Stream.peek".(æÑí“úÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(æÑí“úÿÿÿÿ
+G	java:S106"+Replace this use of System.out by a logger.(£âÒ8Ç”şø‚2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8½¨ıø‚2
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8½¨ıø‚2
